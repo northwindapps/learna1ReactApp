@@ -62,7 +62,7 @@ const Chat = () => {
       setMessages((prevMessages) => {
         const updatedMessages = [
           ...prevMessages,
-          { sender: 'AI', text: data.reply },
+          { sender: 'AI', text: data.reply, speakableText: data.reply }, // Add the text for later playback
         ];
         return updatedMessages;
       });
@@ -101,6 +101,9 @@ const Chat = () => {
         {messages.map((msg, index) => (
           <div key={index} className={`message ${msg.sender === 'AI' ? 'incoming' : 'outgoing'}`}>
             <strong>{msg.sender}:</strong> {msg.text}
+            {msg.sender === 'AI' && msg.speakableText && (
+              <button onClick={() => speakText(msg.speakableText)}>🔊 Playback</button>
+            )}
           </div>
         ))}
       </div>
