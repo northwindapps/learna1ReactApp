@@ -11,17 +11,14 @@ const Lesson = () => {
       .then((text) => {
         const rows = text.split('\n'); // Split by line
         const parsedData = rows.map((row) => {
-          const [word, translation] = row.split('('); // Split each row by comma
+          const [word, translation] = row.split(','); // Split each row by comma
           
           // Ensure both word and translation are present
           if (word && translation) {
-            console.log(word);
-          console.log(translation);
-            return { word: word.trim(), translation: translation.trim() };
+            return { word: word.replace(/"/g, ''), translation: translation.replace(/"/g, '') };
           }
           return null; // Return null for invalid rows
         }).filter(Boolean); // Filter out invalid rows
-        console.log(parsedData);
         setVocab(parsedData);
       })
       .catch((err) => console.error('Error loading CSV:', err));
