@@ -50,6 +50,7 @@ const Chat = () => {
     const newMessage = { sender: 'You', text: input };
     setMessages([...messages, newMessage]);
 
+    //'http://18.177.15.188:3001/chat'
     try {
       const response = await fetch('http://localhost:3001/chat', {
         method: 'POST',
