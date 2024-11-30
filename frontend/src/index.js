@@ -2,12 +2,21 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
+import Chat from './Chat';
+import Lesson from './Lesson'; // Import the Lesson component
 import reportWebVitals from './reportWebVitals';
+import { BrowserRouter, Routes, Route } from 'react-router-dom'; // Import routing components
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    <BrowserRouter>
+      <Routes>
+        <Route path="/" element={<App />} />
+        <Route path="/chat" element={<Chat />} />
+        <Route path="/lesson" element={<Lesson />} />
+      </Routes>
+    </BrowserRouter>
   </React.StrictMode>
 );
 
