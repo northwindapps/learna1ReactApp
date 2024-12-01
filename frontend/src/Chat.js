@@ -50,9 +50,9 @@ const Chat = () => {
     const newMessage = { sender: 'You', text: input };
     setMessages([...messages, newMessage]);
 
-    //'http://18.177.15.188:3001/chat'
+    //'http://localhost:3001/chat'
     try {
-      const response = await fetch('http://localhost:3001/chat', {
+      const response = await fetch('https://learna1.com/chat', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ message: input }),
