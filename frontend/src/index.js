@@ -4,6 +4,7 @@ import './index.css';
 import App from './App';
 import Chat from './Chat';
 import Lesson from './Lesson'; // Import the Lesson component
+import Slideshow from './Slideshow';
 import reportWebVitals from './reportWebVitals';
 import { BrowserRouter, Routes, Route } from 'react-router-dom'; // Import routing components
 
@@ -15,6 +16,7 @@ root.render(
         <Route path="/" element={<App />} />
         <Route path="/chat" element={<Chat />} />
         <Route path="/lesson" element={<Lesson />} />
+        <Route path="/slideshow" element={<Slideshow />} />
       </Routes>
     </BrowserRouter>
   </React.StrictMode>
