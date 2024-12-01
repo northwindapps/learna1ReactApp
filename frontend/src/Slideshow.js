@@ -10,6 +10,16 @@ const Slideshow = () => {
   const [voices, setVoices] = useState([]);
   const [englishVoice, setEnglishVoice] = useState(null);
 
+  // Shuffle function to randomize the order of vocabulary
+  const shuffleArray = (array) => {
+    let shuffledArray = [...array]; // Create a copy of the array to avoid mutating the original
+    for (let i = shuffledArray.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [shuffledArray[i], shuffledArray[j]] = [shuffledArray[j], shuffledArray[i]]; // Swap elements
+    }
+    return shuffledArray;
+  };
+
   useEffect(() => {
     // Function to load voices and update available voices list
     const loadVoices = () => {
@@ -66,7 +76,9 @@ const Slideshow = () => {
           }
           return null; // Return null for invalid rows
         }).filter(Boolean); // Filter out invalid rows
-        setVocab(parsedData);
+        // Shuffle the data to randomize the order
+        const shuffledData = shuffleArray(parsedData);
+        setVocab(shuffledData);
         console.log(parsedData);
       })
       .catch((err) => console.error('Error loading CSV:', err));
