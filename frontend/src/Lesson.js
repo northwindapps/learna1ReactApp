@@ -6,7 +6,7 @@ const Lesson = () => {
 
   useEffect(() => {
     // Fetch the CSV file and parse it manually
-    fetch('/germanVocab500A1.csv')
+    fetch('/germanVocab500A1&Examples.csv')
       .then((response) => response.text())
       .then((text) => {
         const rows = text.split('\n'); // Split by line
