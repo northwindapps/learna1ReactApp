@@ -15,8 +15,10 @@ root.render(
       <Routes>
         <Route path="/" element={<App />} />
         <Route path="/chat" element={<Chat />} />
-        <Route path="/lesson" element={<Lesson />} />
-        <Route path="/slideshow" element={<Slideshow />} />
+        <Route path="/lesson/de" element={<Lesson />} />
+        <Route path="/slideshow/de" element={<Slideshow />} />
+        <Route path="/lesson/fr" element={<Lesson />} />
+        <Route path="/slideshow/fr" element={<Slideshow />} />
       </Routes>
     </BrowserRouter>
   </React.StrictMode>

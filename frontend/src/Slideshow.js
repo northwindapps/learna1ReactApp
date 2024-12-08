@@ -98,7 +98,7 @@ const Slideshow = () => {
 
   return (
     <div className="slideshow-container">
-      <h1>German Vocabulary Slideshow</h1>
+      <h1>Vocabulary Slideshow</h1>
       {vocab.length > 0 ? (
         <div className="slide">
           <div className="word">{vocab[currentIndex].word} <button onClick={() => speakText(vocab[currentIndex].word)}>🔊</button></div>
