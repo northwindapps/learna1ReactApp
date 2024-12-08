@@ -1,0 +1,417 @@
+oui,yes,"Oui, c'est correct.","Yes, that is correct."  
+non,no,"Non, je ne veux pas de café.","No, I don’t want coffee."  
+et,and,J'ai une pomme et une banane.,I have an apple and a banana.  
+mais,but,"J'aime le thé, mais pas le café.","I like tea, but not coffee."  
+ou,or,Tu veux du thé ou du café ?,Do you want tea or coffee?  
+s'il vous plaît,please,"Un verre d'eau, s'il vous plaît.","A glass of water, please."  
+merci,thank you,Merci pour le repas.,Thank you for the meal.  
+excusez-moi,excuse me,"Excusez-moi, où sont les toilettes ?","Excuse me, where is the restroom?" 
+je,I,Je viens de France.,I come from France.  
+tu,you - informal,Tu es très gentil.,You are very kind.  
+
+l'homme,man,L'homme lit un journal.,The man is reading a newspaper.  
+la femme,woman,La femme boit un café.,The woman is drinking coffee.  
+l'enfant,child,L'enfant joue dans le jardin.,The child is playing in the garden.  
+le garçon,boy,Le garçon a un vélo.,The boy has a bicycle.  
+la fille,girl,La fille peint un tableau.,The girl is painting a picture.  
+la famille,family,La famille mange ensemble.,The family eats together.  
+l'ami,friend - male,Mon ami habite à Paris.,My friend lives in Paris.  
+l'amie,friend - female,Mon amie étudie la médecine.,My friend studies medicine.  
+le père,father,Mon père travaille au bureau.,My father works in the office.  
+la mère,mother,Ma mère prépare le dîner.,My mother is cooking dinner.  
+
+zéro,zero,Il y a zéro erreur.,There are zero mistakes.  
+un,one,J'en ai trouvé un.,I found one.  
+deux,two,J'ai besoin de deux chaises.,I need two chairs.  
+trois,three,Trois chats dorment ici.,Three cats are sleeping here.  
+quatre,four,Quatre amis viennent aujourd'hui.,Four friends are coming today.  
+cinq,five,Le train arrive dans cinq minutes.,The train arrives in five minutes.  
+six,six,Je me lève à six heures.,I get up at six o'clock.  
+sept,seven,Nous nous retrouvons à sept heures.,We meet at seven o'clock.  
+huit,eight,Le cours commence à huit heures.,The class starts at eight o'clock.  
+neuf,nine,Neuf enfants jouent au parc.,Nine children are playing in the park.  
+
+lundi,Monday,Lundi, j'ai un rendez-vous.,Monday, I have an appointment.  
+mardi,Tuesday,Mardi est mon jour de congé.,Tuesday is my day off.  
+mercredi,Wednesday,Nous allons au cinéma mercredi.,We are going to the cinema on Wednesday.  
+jeudi,Thursday,Jeudi est un jour important pour moi.,Thursday is an important day for me.  
+vendredi,Friday,Vendredi est le dernier jour de la semaine de travail.,Friday is the last workday of the week.  
+samedi,Saturday,Samedi, je rends visite à mes amis.,Saturday, I visit my friends.  
+dimanche,Sunday,Nous allons nous promener dimanche.,"Sunday, we are going for a walk."  
+janvier,January,Il fait très froid en janvier.,It is very cold in January.  
+février,February,Février n'a que 28 jours.,February has only 28 days.  
+mars,March,En mars, le printemps commence.,Spring begins in March.  
+
+rouge,red,La fleur est rouge.,The flower is red.  
+bleu,blue,Le ciel est bleu.,The sky is blue.  
+jaune,yellow,La banane est jaune.,The banana is yellow.  
+vert,green,L'arbre est vert.,The tree is green.  
+noir,black,Le chat est noir.,The cat is black.  
+blanc,white,Le papier est blanc.,The paper is white.  
+gris,gray,La pierre est grise.,The stone is gray.  
+marron,brown,Le chien est marron.,The dog is brown.  
+orange,orange,L'orange est orange.,The orange is orange.  
+rose,pink,La robe est rose.,The dress is pink.  
+
+être,to be,Je suis heureux.,I am happy.  
+avoir,to have,Nous avons une voiture.,We have a car.  
+aller,to go,Je vais à l'école.,I am going to school.  
+venir,to come,Tu viens demain ?,Are you coming tomorrow?  
+voir,to see,Je vois un oiseau.,I see a bird.  
+entendre,to hear,J'écoute de la musique.,I am listening to music.  
+faire,to do/make,Que fais-tu ?,What are you doing?  
+parler,to speak,Parles-tu français ?,Do you speak French?  
+écrire,to write,J'écris une lettre.,I am writing a letter.  
+lire,to read,Elle lit un livre.,She is reading a book.  
+manger,to eat,J'aime manger des pizzas.,I like to eat pizzas.  
+boire,to drink,Je bois de l'eau.,I drink water.  
+dormir,to sleep,Je dors huit heures chaque nuit.,I sleep eight hours every night.  
+acheter,to buy,J'achète un nouveau téléphone.,I am buying a new phone.  
+vivre,to live,Je vis à Paris.,I live in Paris.  
+aimer,to love,J'aime ma famille.,I love my family.  
+apprendre,to learn,J'apprends le français.,I am learning French.  
+travailler,to work,Je travaille dans un bureau.,I work in an office.  
+jouer,to play,Les enfants jouent dans le parc.,The children are playing in the park.  
+demander,to ask,Je pose une question au professeur.,I am asking the teacher.  
+
+magasin,shop,Je vais au magasin.,I am going to the shop.
+supérette,supermarket,Nous achetons des fruits à la supérette.,We buy fruit at the supermarket.
+marché,market,Il y a des légumes frais au marché.,There is fresh vegetables at the market.
+argent,money,J'ai besoin de plus d'argent.,I need more money.
+pièce,coin,J'ai trouvé une pièce.,I found a coin.
+billet,banknote,Il a un billet dans sa poche.,He has a banknote in his pocket.
+prix,price,Le prix est trop élevé.,The price is too high.
+cher,expensive,La voiture est très chère.,The car is very expensive.
+bon marché,cheap,Le T-shirt est bon marché.,The T-shirt is cheap.
+vendeur,salesperson,Le vendeur m'aide.,The salesperson helps me.
+cinéma,cinema,Nous allons au cinéma.,We are going to the cinema.
+film,movie,Le film est excitant.,The movie is exciting.
+théâtre,theater,J'ai des billets pour le théâtre.,I have tickets for the theater.
+concert,concert,Le concert était fantastique.,The concert was fantastic.
+musique,music,J'aime écouter de la musique.,I like listening to music.
+livre,book,Je lis un livre.,I am reading a book.
+journal,newspaper,Je lis le journal chaque matin.,I read the newspaper every morning.
+sport,sport,Le sport est amusant.,Sport is fun.
+jeu,game,Nous jouons à un jeu.,We are playing a game.
+loisir,hobby,Mon loisir est la natation.,My hobby is swimming.
+ici,here,Je suis ici.,I am here.
+là,there,Le livre est là.,The book is there.
+maintenant,now,Nous mangeons maintenant.,We are eating now.
+bientôt,soon,Je viens bientôt.,I am coming soon.
+toujours,always,Elle est toujours à l'heure.,She is always on time.
+fréquemment,often,Il nous rend visite fréquemment.,He visits us often.
+parfois,sometimes,Je vais parfois me promener.,I sometimes go for a walk.
+jamais,never,Elle ne ment jamais.,She never lies.
+sur,over,Le ballon est sur la table.,The ball is over the table.
+sous,under,Le chat est sous le canapé.,The cat is under the sofa.
+arbre,tree,L'arbre est très vieux.,The tree is very old.
+fleur,flower,Je cueille une fleur.,I pick a flower.
+montagne,mountain,La montagne est haute.,The mountain is tall.
+rivière,river,La rivière coule rapidement.,The river flows fast.
+lac,lake,Nous nageons dans le lac.,We are swimming in the lake.
+mer,sea,La mer est calme aujourd'hui.,The sea is calm today.
+chien,dog,Le chien aboie fort.,The dog barks loudly.
+chat,cat,Le chat dort sur la chaise.,The cat is sleeping on the chair.
+oiseau,bird,Un oiseau chante dans l'arbre.,A bird is singing in the tree.
+poisson,fish,Le poisson nage dans l'eau.,The fish swims in the water.
+heureux,happy,Je suis très heureux.,I am very happy.
+triste,sad,Elle est triste aujourd'hui.,She is sad today.
+fatigué,tired,Je suis fatigué après le travail.,I am tired after work.
+faim,hungry,Nous avons faim et voulons manger.,We are hungry and want to eat.
+soif,thirsty,As-tu soif ?,Are you thirsty?
+énervé,angry,Il est énervé parce qu'il doit attendre.,He is angry because he has to wait.
+ennuyé,bored,Les enfants s'ennuient.,The children are bored.
+excité,excited,Je suis excité à propos du concert.,I am excited about the concert.
+calme,calm,Reste calme et concentré.,Stay calm and focused.
+
+rouge,red,La fleur est rouge.,The flower is red.
+bleu,blue,Le ciel est bleu.,The sky is blue.
+vert,green,L'herbe est verte.,The grass is green.
+jaune,yellow,Le soleil brille jaune.,The sun shines yellow.
+noir,black,Mes chaussures sont noires.,My shoes are black.
+blanc,white,Le papier est blanc.,The paper is white.
+gris,gray,Le ciel est gris aujourd'hui.,The sky is gray today.
+marron,brown,La table est brune.,The table is brown.
+orange,orange,L'orange est orange.,The orange is orange.
+rose,pink,Sa robe est rose.,Her dress is pink.
+cercle,circle,Le ballon a la forme d'un cercle.,The ball is shaped like a circle.
+carré,square,La fenêtre est carrée.,The window is a square.
+triangle,triangle,Le toit a la forme d'un triangle.,The roof is shaped like a triangle.
+ligne,line,Trace une ligne droite.,Draw a straight line.
+point,dot,Mettez un point à la fin de la phrase.,Put a dot at the end of the sentence.
+coin,corner,La table a quatre coins.,The table has four corners.
+ronde,round,La table est ronde.,The table is round.
+angulaire,angular,Cette boîte est angulaire.,This box is angular.
+grand,big,La maison est grande.,The house is big.
+
+petit,small,Le chien est petit.,The dog is small.
+ordinateur,computer,L'ordinateur est allumé.,The computer is on.
+téléphone portable,mobile phone,Mon téléphone portable est neuf.,My mobile phone is new.
+ordinateur portable,laptop,Je travaille sur l'ordinateur portable.,I am working on the laptop.
+écran,screen,L'écran est cassé.,The screen is broken.
+clavier,keyboard,Le clavier est sans fil.,The keyboard is wireless.
+souris,mouse,J'utilise une souris avec l'ordinateur portable.,I use a mouse with the laptop.
+internet,internet,L'internet est lent aujourd'hui.,The internet is slow today.
+caméra,camera,La caméra prend de belles photos.,The camera takes beautiful pictures.
+chargeur,charger,J'ai oublié mon chargeur.,I forgot my charger.
+mot de passe,password,Le mot de passe est sécurisé.,The password is secure.
+aller,to go,Je vais au travail tous les jours.,I go to work every day.
+venir,to come,Viens-tu ce soir ?,Are you coming tonight?
+manger,to eat,Nous mangeons des spaghetti pour le dîner.,We are eating spaghetti for dinner.
+boire,to drink,Il aime boire du café.,He likes to drink coffee.
+dormir,to sleep,Elle dort huit heures chaque nuit.,She sleeps eight hours every night.
+travailler,to work,Je travaille dans un bureau.,I work in an office.
+jouer,to play,Les enfants jouent dehors.,The children are playing outside.
+apprendre,to learn,Nous apprenons l'allemand à l'école.,We are learning German at school.
+lire,to read,Il lit un livre intéressant.,He is reading an interesting book.
+écrire,to write,Elle écrit une lettre.,She is writing a letter.
+Quoi?,What?,Que fais-tu ?,What are you doing?
+Qui?,Who?,Qui vient avec nous ?,Who is coming with us?
+Où?,Where?,Où est ma clé ?,Where is my key?
+Pourquoi?,Why?,Pourquoi es-tu en retard ?,Why are you late?
+Quand?,When?,Quand commence le film ?,When does the movie start?
+Comment?,How?,Comment ça va ?,How are you?
+Combien ?,How much ?,Combien ça coûte ?,How much does it cost?
+Où aller ?,Where to?,Où vas-tu ?,Where are you going?
+À qui ?,Whose ?,À qui est ce livre ?,Whose book is this?
+Lequel ?,Which ?,Quel film est ton préféré ?,Which movie is your favorite?
+lundi,Monday,Lundi est le début de la semaine.,Monday is the start of the week.
+mardi,Tuesday,J'ai un rendez-vous mardi.,I have an appointment on Tuesday.
+mercredi,Wednesday,Mercredi est le jour du milieu de la semaine!,Wednesday is hump day!
+jeudi,Thursday,Je vais à la salle de sport jeudi.,I go to the gym on Thursday.
+vendredi,Friday,Vendredi est le meilleur jour de la semaine.,Friday is the best day of the week.
+samedi,Saturday,Samedi est mon jour de congé.,Saturday is my day off.
+dimanche,Sunday,Le dimanche, nous faisons la grasse matinée.,On Sunday, we sleep in.
+jour de la semaine,weekday,Les jours de la semaine vont du lundi au vendredi.,Weekdays are from Monday to Friday.
+week-end,weekend,Le week-end est le moment pour se détendre.,The weekend is time for relaxation.
+fête,holiday,"Le jour de fête, nous avons congé.","On the holiday, we have the day off."
+
+janvier,January, Le janvier est le premier mois de l'année.,January is the first month of the year.
+février,February, Le mois de février a parfois 29 jours.,February sometimes has 29 days.
+mars,March, Le printemps commence en mars.,Spring begins in March.
+avril,April, Il pleut souvent en avril.,It often rains in April.
+mai,May, Le mois de mai est mon préféré.,May is my favorite month.
+juin,June, "En juin, nous partons en vacances.","In June, we go on vacation."
+juillet,July, Juillet est très chaud.,July is very warm.
+août,August, Août est un mois d'été.,August is a summer month.
+septembre,September, L'automne commence en septembre.,Fall begins in September.
+octobre,October, Nous fêtons Halloween en octobre.,We celebrate Halloween in October.
+novembre,November, Novembre est souvent brumeux.,November is often foggy.
+décembre,December, Nous fêtons Noël en décembre.,We celebrate Christmas in December.
+
+vingt-et-un,21, J'ai vingt-et-un ans.,I am 21 years old.
+vingt-deux,22, Le livre coûte vingt-deux euros.,The book costs 22 euros.
+trente,30, La réunion commence dans trente minutes.,The meeting starts in 30 minutes.
+quarante,40, Il y a quarante kilomètres jusqu'à la ville.,It’s 40 kilometers to the city.
+cinquante,50, J'ai lu cinquante pages.,I read 50 pages.
+soixante,60, La voiture coûte soixante mille euros.,"The car costs 60,000 euros."
+soixante-dix,70, Le film dure soixante-dix minutes.,The movie lasts 70 minutes.
+quatre-vingts,80, Il y a quatre-vingts participants au cours.,There are 80 participants in the course.
+quatre-vingt-dix,90, La température est de quatre-vingt-dix degrés.,The temperature is 90 degrees.
+cent,100, Un résultat parfait est de cent pour cent.,A perfect score is 100 percent.
+
+la ville,city, Je vis dans une petite ville.,I live in a small city.
+le village,village, Le village est calme et beau.,The village is quiet and beautiful.
+l'école,school, Les enfants vont à l'école tous les jours.,The children go to school every day.
+le bureau,office, Mon bureau est au troisième étage.,My office is on the third floor.
+le parc,park, Nous nous retrouvons au parc.,We’ll meet in the park.
+le supermarché,supermarket, J'achète du pain au supermarché.,I buy bread at the supermarket.
+la gare,train station, Le train arrive à la gare.,The train arrives at the station.
+l'église,church, L'ancienne église est très belle.,The old church is very beautiful.
+
+la danse,dancing, Danser est amusant.,Dancing is fun.
+le chant,singing, J'aime chanter sous la douche.,I love singing in the shower.
+la peinture,painting, Elle passe son temps libre à peindre.,She spends her free time painting.
+le dessin,drawing, Dessiner des animaux est mon hobby.,Drawing animals is my hobby.
+la natation,swimming, Nous allons souvent nager en été.,We often go swimming in the summer.
+la course,running, Courir est bon pour la santé.,Running is good for your health.
+la cuisine,cooking, Il aime cuisiner de nouvelles recettes.,He likes cooking new recipes.
+les voyages,traveling, Voyager élargit l'horizon.,Traveling broadens your horizons.
+la photographie,photography, La photographie est sa passion.,Photography is her passion.
+l'écriture,writing, Je passe des heures à écrire.,I spend hours writing.
+
+le chauffeur de bus,bus driver, Le chauffeur de bus était très gentil.,The bus driver was very friendly.
+le billet,ticket, As-tu acheté un billet ?,Did you buy a ticket?
+l'arrêt,stop, L'arrêt est juste au coin de la rue.,The stop is just around the corner.
+la rue,street, La rue est très animée.,The street is very busy.
+l'intersection,intersection, À l'intersection, nous tournons à droite.,At the intersection, we turn right.
+le piéton,pedestrian, Le piéton traverse la rue.,The pedestrian is crossing the street.
+le feu de circulation,traffic light, Attends que le feu de circulation soit vert.,Wait until the traffic light turns green.
+le vélo,bicycle, J'aime faire du vélo.,I like riding a bicycle.
+le permis de conduire,driver’s license, Je dois renouveler mon permis de conduire.,I need to renew my driver’s license.
+la circulation,traffic, La circulation est particulièrement mauvaise aujourd'hui.,The traffic is especially bad today.
+
+amical,friendly, Le serveur était très amical.,The waiter was very friendly.
+désagréable,unfriendly, Le vendeur était assez désagréable.,The salesperson was quite unfriendly.
+rapide,fast, Cette voiture est vraiment rapide.,This car is really fast.
+lent,slow, L'escargot est très lent.,The snail is very slow.
+facile,easy, Cette tâche est facile à résoudre.,This task is easy to solve.
+difficile,difficult, Le problème est assez difficile.,The problem is quite difficult.
+intéressant,interesting, Le film était très intéressant.,The movie was very interesting.
+ennuyeux,boring, Le livre était malheureusement assez ennuyeux.,The book was unfortunately quite boring.
+propre,clean, La chambre d'hôtel était très propre.,The hotel room was very clean.
+sale,dirty, Tes chaussures sont vraiment sales.,Your shoes are totally dirty.
+
+auto,car,Ma voiture est rouge,My car is red.
+autobus,bus,Le bus arrivera dans cinq minutes.,The bus will come in five minutes.
+train,train,Le train va à Berlin.,The train is going to Berlin.
+vélo,bicycle,Je vais au travail à vélo.,I ride my bicycle to work.
+avion,airplane,L'avion vole vers Paris.,The airplane is flying to Paris.
+taxi,taxi,Nous prenons un taxi pour l'hôtel.,We are taking a taxi to the hotel.
+gare,train station,La gare est à proximité.,The train station is nearby.
+aéroport,airport,L'aéroport est loin.,The airport is far away.
+rue,street,La rue est longue.,The street is long.
+pluie,rain,La pluie est forte.,The rain is heavy.
+neige,snow,La neige est blanche.,The snow is white.
+soleil,sun,Le soleil brille aujourd'hui.,The sun is shining today.
+vent,wind,Le vent souffle fort.,The wind is blowing strongly.
+nuage,cloud,Le nuage est gris.,The cloud is gray.
+météo,weather,Le temps est beau.,The weather is nice.
+chaud,warm,Il fait chaud aujourd'hui.,It is warm today.
+froid,cold,Il fait froid en hiver.,It is cold in the winter.
+ensoleillé,sunny,Il fait soleil le matin.,It is sunny in the morning.
+pluvieux,rainy,Il pleut aujourd'hui.,It is rainy today.
+horloge,clock,L'horloge indique dix heures.,The clock shows ten o'clock.
+heure,hour,Une heure dure soixante minutes.,An hour lasts sixty minutes.
+minute,minute,Une minute est très courte.,A minute is very short.
+seconde,second,Il ne faut qu'une seconde.,It takes only one second.
+aujourd'hui,today,Aujourd'hui est une belle journée.,Today is a beautiful day.
+hier,yesterday,Hier, j'étais au cinéma.,Yesterday I was at the cinema.
+demain,tomorrow,Demain, je vais à Berlin.,Tomorrow I am going to Berlin.
+maintenant,now,Maintenant, il est temps de partir.,Now it is time to go.
+plus tard,later,Plus tard, nous irons nous promener.,Later we will go for a walk.
+tôt,early,Je me lève tôt.,I get up early.
+grand,big,La maison est grande.,The house is big.
+petit,small,Le chat est petit.,The cat is small.
+vieux,old,Ma voiture est vieille.,My car is old.
+jeune,young,La femme est jeune.,The woman is young.
+nouveau,new,Le livre est nouveau.,The book is new.
+beau,beautiful,Les fleurs sont belles.,The flowers are beautiful.
+laid,ugly,La chaise est moche.,The chair is ugly.
+bon,good,Le film était bon.,The movie was good.
+mauvais,bad,La nourriture a mauvais goût.,The food tastes bad.
+simple,simple,La tâche est simple.,The task is simple.
+tête,head,Ma tête me fait mal.,My head hurts.
+visage,face,Son visage est beau.,Her face is beautiful.
+yeux,eyes,Il a les yeux bleus.,He has blue eyes.
+nez,nose,Je sens avec mon nez.,I smell with my nose.
+bouche,mouth,Elle parle avec sa bouche.,She speaks with her mouth.
+oreille,ear,J'entends avec mon oreille.,I hear with my ear.
+main,hand,Je te donne ma main.,I give you my hand.
+bras,arm,Mon bras est blessé.,My arm is injured.
+jambe,leg,Ma jambe est longue.,My leg is long.
+pied,foot,Mon pied me fait mal.,My foot hurts.
+chemise,shirt,Il porte une chemise bleue.,He is wearing a blue shirt.
+pantalon,pants,Je m'achète des pantalons neufs.,I am buying new pants.
+jupe,skirt,Elle porte une jupe rouge.,She is wearing a red skirt.
+robe,dress,Elle porte une belle robe.,She is wearing a beautiful dress.
+veste,jacket,J'ai besoin d'une veste chaude.,I need a warm jacket.
+manteau,coat,Le manteau est en laine.,The coat is made of wool.
+chaussures,shoes,J'ai acheté des nouvelles chaussures.,I bought new shoes.
+chaussettes,socks,Je porte des chaussettes bleues.,I am wearing blue socks.
+chapeau,hat,Le chapeau est cher.,The hat is expensive.
+écharpe,scarf,Je porte une écharpe chaude en hiver.,I wear a warm scarf in the winter.
+
+le client,customer, Le client était satisfait du service.,The customer was satisfied with the service.
+l'offre,offer, Cette offre est valable jusqu'à demain.,This offer is only valid until tomorrow.
+la remise,discount, Y a-t-il une remise sur ces produits ?,Is there a discount on these products?
+la facture,bill, Pouvez-vous m'apporter la facture ?,Can you bring me the bill?
+le reçu,receipt, Gardez bien le reçu.,Please keep the receipt.
+le sac,bag, Avez-vous besoin d'un sac ?,Do you need a bag?
+l'étagère,shelf, Les marchandises sont sur l'étagère du haut.,The goods are on the top shelf.
+le vendeur,salesperson, Le vendeur était très serviable.,The salesperson was very helpful.
+le département,department, L'électronique se trouve au département supérieur.,Electronics are in the upper department.
+l'achat,purchase, Mon achat était abordable aujourd'hui.,My purchase was inexpensive today.
+
+la maladie,illness, La maladie s'est propagée rapidement.,The illness spread quickly.
+l'examen,examination, L'examen a duré environ une heure.,The examination took about an hour.
+le traitement,treatment, Le traitement a été couronné de succès.,The treatment was successful.
+l'ordonnance,prescription, Le médecin m'a prescrit un médicament.,The doctor issued me a prescription.
+le comprimé,tablet, Prends un comprimé après les repas.,Take a tablet after eating.
+la pommade,ointment, Cette pommade soulage la douleur.,This ointment helps with pain.
+le bandage,bandage, Le bandage doit être changé.,The bandage needs to be changed.
+l'opération,operation, L'opération s'est bien passée.,The operation went well.
+le patient,patient, Le patient sera bientôt libéré.,The patient will be discharged soon.
+les urgences,emergency room, Allez immédiatement aux urgences.,Go to the emergency room immediately.
+
+la souris,mouse, La souris s'est dirigée vers le coin.,The mouse ran into the corner.
+le cheval,horse, Les chevaux sont des animaux très intelligents.,Horses are very intelligent animals.
+la vache,cow, Il y a beaucoup de vaches qui broutent dans le pré.,Many cows are grazing in the meadow.
+le cochon,pig, Le cochon est allongé dans la boue.,The pig is lying in the mud.
+le mouton,sheep, Les moutons ont de la laine douce.,Sheep have soft wool.
+le canard,duck, Le canard nage dans le bassin.,The duck is swimming in the pond.
+le lièvre,hare, Le lièvre se cache dans l'herbe.,The hare is hiding in the grass.
+la chèvre,goat, La chèvre grimpe sur les rochers.,The goat is climbing the rock.
+le loup,wolf, Les loups vivent souvent en meutes.,Wolves often live in packs.
+l'ours,bear, L'ours cherchait du miel.,The bear was looking for honey.
+
+le anniversaire,birthday, Quand est ton anniversaire ?, When is your birthday?
+Noël,Christmas, Noël est mon moment préféré de l'année., Christmas is my favorite time of the year.
+Pâques,Easter, À Pâques, nous cherchons des œufs colorés., At Easter, we search for colorful eggs.
+le festival,festival, Le festival a été un grand succès., The festival was a great success.
+le carnaval,carnival, Le carnaval est célébré dans de nombreuses villes., Carnival is celebrated in many cities.
+le Réveillon,New Year's Eve, Le Réveillon, nous faisons des feux d'artifice., On New Year's Eve, we set off fireworks.
+le cadeau,gift, J'ai reçu un super cadeau., I received a great gift.
+la bougie,candle, Les bougies brûlent sur la table., The candles are burning on the table.
+la fête,party, La fête était très amusante., The party was very fun.
+le jour férié,holiday, Demain, c'est un jour férié., Tomorrow is a holiday.
+déçu,disappointed, Elle était déçue qu'il pleuve., She was disappointed that it rained.
+fier,proud, Il est fier de sa performance., He is proud of his achievement.
+perplexe,confused, J'étais perplexe par l'explication., I was confused by the explanation.
+enthousiaste,enthusiastic, Les enfants étaient enthousiastes à propos du cadeau., The children were enthusiastic about the gift.
+soulage,relieved, Je suis tellement soulagé que tout se soit bien passé., I’m so relieved that everything went well.
+anxieux,anxious, Elle était très anxieuse avant l'examen., She was very anxious before the exam.
+satisfait,satisfied, Je suis satisfait de mon travail., I am satisfied with my work.
+amoureux,in love, Il est éperdument amoureux., He is head over heels in love.
+jaloux,jealous, Elle est jalouse de sa sœur., She is jealous of her sister.
+ennuyé,bored, Je m'ennuie, faisons quelque chose., I'm bored, let's do something.
+la chose,thing, C'est ma chose., That's my thing.
+le truc,thing, Ce truc est cassé., This thing is broken.
+le cas,case, "Dans le pire des cas, nous appelerons de l'aide.", "In the worst case, we’ll call for help."
+l'idée,idea, C'est une excellente idée !, That's a great idea!
+la raison,reason, Quelle est la raison de ta décision ?, What is the reason for your decision?
+la possibilité,possibility, Y a-t-il une autre possibilité ?, Is there another possibility?
+l'exemple,example, Peux-tu me donner un exemple ?, Can you give me an example?
+la question,question, J'ai une question pour toi., I have a question for you.
+la réponse,answer, Sais-tu la réponse ?, Do you know the answer?
+la différence,difference, Quelle est la différence entre ceux-ci ?, What's the difference between these two?
+Bonjour,Good morning, Bonjour ! As-tu bien dormi ?, Good morning! Did you sleep well?
+Bonjour,Good day, "Bonjour, comment puis-je vous aider ?", "Good day, how can I help you?"
+Bonsoir,Good evening, Bonsoir, bienvenue au concert !, "Good evening, welcome to the concert!"
+Bonne nuit,Good night, Bonne nuit et fais de beaux rêves., Good night and sweet dreams.
+Ça va ?,How are you?, Ça va ? Tout va bien ?, How are you? All good?
+Merci,Thank you, Merci pour ton aide., Thank you for your help.
+S'il te plaît,Please/You're welcome, S'il te plaît, prends place., Please, take a seat.
+Excusez-moi,Excuse me, "Excusez-moi, où sont les toilettes ?", "Excuse me, where is the restroom?"
+Je ne comprends pas,I don’t understand, "Excusez-moi, je ne comprends pas.", "Sorry, I don’t understand."
+À bientôt !,See you soon!, À bientôt ! On se voit la semaine prochaine., See you soon! We’ll meet next week.
+le ami,friend, Pierre est mon meilleur ami., Peter is my best friend.
+la amie,girlfriend, Ma petite amie adore les fleurs., My girlfriend loves flowers.
+le travail,work, "Après le travail, je vais à la salle de sport.", "After work, I go to the gym."
+les vacances,vacation, Nous prévoyons des vacances en Italie., We’re planning a vacation in Italy.
+le plan,plan, As-tu un plan pour ce soir ?, Do you have a plan for tonight?
+le temps,time, Je n'ai pas le temps de parler plus tard., I don’t have time to talk later.
+le voyage,trip, Le voyage à Paris était fantastique., The trip to Paris was fantastic.
+la langue,language, Le français est une langue intéressante., French is an interesting language.
+l'objectif,goal, Mon objectif est de parler couramment le français., My goal is to speak French fluently.
+la chance,luck, Bonne chance pour l'examen !, Good luck with the exam!
+Comment vas-tu aujourd'hui ?, How are you today?, "Je vais très bien, merci !", "I’m doing great, thank you!"
+Présente-toi,Please introduce yourself., "Je m'appelle Anna et je suis développeuse de logiciels à Paris.", "My name is Anna, and I’m a software developer from Paris."
+Où habites-tu ?, Where do you live?, J'habite à Paris., I live in Paris.
+Quand es-tu né(e) ?, When are you born?, Je suis né le 15 avril 1995.,"I was born on April 15th, 1995."
+Où es-tu né(e) ?, Where are you born?, Je suis né à Paris., I was born in Paris.
+Es-tu étudiant(e) ou travailles-tu ?, Are you studying or working?, Je suis actuellement étudiant en biologie., I’m currently studying biology.
+Quelle est ta spécialité ?, What is your major?, Ma spécialité est l'informatique., My major is computer science.
+Quel est ton passe-temps ?, What is your hobby?, J'aime peindre et faire de la randonnée., I love painting and hiking.
+Quel est ton livre préféré ?, What is your favorite book?, Mon livre préféré est "Orgueil et Préjugés" de Jane Austen., My favorite book is Pride and Prejudice by Jane Austen.
+Quelle est ta musique préférée ?, What is your favorite music?, J'aime écouter de la musique classique., I enjoy listening to classical music.
+As-tu des frères et sœurs ?, Do you have brothers or sisters?, Oui, j'ai une sœur cadette., Yes, I have one younger sister.
+Que fais-tu pendant ton temps libre ?, What do you do in your spare time?, J'aime lire des livres et jouer aux jeux vidéo., I like to read books and play video games.
+Qu'as-tu prévu ce week-end ?, What’s your plan on this weekend?, Je prévois de rendre visite à ma famille et de partir en randonnée., I’m planning to visit my family and go hiking.
+Que manges-tu pour le déjeuner ?, What do you eat at lunch?, D'habitude, je mange une salade et des pâtes., I usually eat a salad and some pasta.
+Quel temps fait-il aujourd'hui ?, How's the weather today?, Il fait ensoleillé et chaud., It's sunny and warm.
+Quel âge as-tu ?, How old are you?, J'ai 28 ans., I’m 28 years old.
+Quand t'es-tu levé(e) ?, When did you get up?, Je me suis levé à 7h du matin., I woke up at 7 a.m.
+Quelle heure est-il ?, What time is it?, Il est 15h., It’s 3 p.m.
+Combien ça coûte ?, How much is it?, Ça coûte 20 euros., It costs 20 euros.
+

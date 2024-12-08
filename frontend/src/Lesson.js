@@ -3,10 +3,16 @@ import './Lesson.css';
 
 const Lesson = () => {
   const [vocab, setVocab] = useState([]);
+  const [selectedLanguage, setSelectedLanguage] = useState('');
 
   useEffect(() => {
+    // Extract the 'lang' query parameter from the URL
+    const pathSegments = window.location.pathname.split('/');
+    const languageFromUrl = pathSegments[pathSegments.length - 1] || 'de';
+    setSelectedLanguage(languageFromUrl); // Set the selected language based on the URL parameter
+
     // Fetch the CSV file and parse it manually
-    fetch('/germanVocab500A1&Examples.csv')
+    fetch(`/vocab-${languageFromUrl}.csv`) // Use the language parameter to fetch the correct file
       .then((response) => response.text())
       .then((text) => {
         const rows = text.split('\n'); // Split by line
@@ -22,11 +28,11 @@ const Lesson = () => {
         setVocab(parsedData);
       })
       .catch((err) => console.error('Error loading CSV:', err));
-  }, []);
+  }, []); // Empty dependency array ensures the effect runs only once when the component is mounted
 
   return (
     <div className="lesson-container">
-      <h1>German Vocabulary To-Do List</h1>
+      <h1>{selectedLanguage === 'de' ? 'German' : 'French'} Vocabulary To-Do List</h1>
       <table>
         <thead>
           <tr>

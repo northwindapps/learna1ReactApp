@@ -5,10 +5,9 @@ const Slideshow = () => {
   const [vocab, setVocab] = useState([]);
   const [currentIndex, setCurrentIndex] = useState(0);
 
-  const [selectedLanguage, setSelectedLanguage] = useState('de-DE'); // Default language (English)
-
+  const [selectedLanguage, setSelectedLanguage] = useState('de-DE'); // Default language (German)
   const [voices, setVoices] = useState([]);
-  const [englishVoice, setEnglishVoice] = useState(null);
+  const [currentVoice, setCurrentVoice] = useState(null);
 
   // Shuffle function to randomize the order of vocabulary
   const shuffleArray = (array) => {
@@ -26,8 +25,8 @@ const Slideshow = () => {
       const availableVoices = window.speechSynthesis.getVoices();
       setVoices(availableVoices);
 
-      const defaultVoice = availableVoices.find(voice => voice.lang === selectedLanguage);
-      setEnglishVoice(defaultVoice);
+      const voice = availableVoices.find(voice => voice.lang === selectedLanguage);
+      setCurrentVoice(voice);
     };
 
     loadVoices();
@@ -38,11 +37,9 @@ const Slideshow = () => {
 
   // Speak text function with dynamic language selection
   function speakText(text, callback) {
-    const voice = voices.find(voice => voice.lang === selectedLanguage);
-
-    if ('speechSynthesis' in window && voice) {
+    if ('speechSynthesis' in window && currentVoice) {
       const utterance = new SpeechSynthesisUtterance(text);
-      utterance.voice = voice;
+      utterance.voice = currentVoice;
 
       // Callback after speech has finished
       utterance.onend = () => {
@@ -56,21 +53,37 @@ const Slideshow = () => {
   }
 
   useEffect(() => {
-    // Fetch the CSV file and parse it manually
-    fetch('/germanVocab500A1&Examples.csv')
+    // Get language parameter from the URL query string
+    const pathSegments = window.location.pathname.split('/');
+    const languageFromUrl = pathSegments[pathSegments.length - 1] || 'de';
+    console.log(languageFromUrl);
+    switch (languageFromUrl) {
+      case "de":
+        setSelectedLanguage("de-DE");
+        break;
+    
+      case "fr":
+        setSelectedLanguage("fr-CA");
+        break;
+    
+      default:
+        setSelectedLanguage("de-DE");
+        break;
+    }
+    
+    
+
+    // Fetch the CSV file based on the selected language and parse it
+    fetch(`/vocab-${languageFromUrl}.csv`)
       .then((response) => response.text())
       .then((text) => {
         const rows = text.split('\n'); // Split by line
         const parsedData = rows.map((row) => {
-          
-          // Use a regular expression to split by commas outside of quotes
           const regex = /(".*?"|[^",\n]+)(?=\s*,|\s*$)/g; 
           const columns = [...row.matchAll(regex)].map(match => match[0].replace(/(^"|"$)/g, '')); // Remove quotes
           
-          // Now you can destructure the columns
           const [word, translation, example, example_translation] = columns;
             
-          // Ensure both word and translation are present
           if (word && translation && example && example_translation) {
             return { word: word.replace(/"/g, ''), translation: translation.replace(/"/g, ''), example: example.replace(/"/g, ''), example_translation: example_translation.replace(/"/g, '') };
           }
@@ -82,7 +95,7 @@ const Slideshow = () => {
         console.log(parsedData);
       })
       .catch((err) => console.error('Error loading CSV:', err));
-  }, []);
+  }, [selectedLanguage]);
 
   const nextSlide = () => {
     if (currentIndex < vocab.length - 1) {
@@ -101,9 +114,13 @@ const Slideshow = () => {
       <h1>Vocabulary Slideshow</h1>
       {vocab.length > 0 ? (
         <div className="slide">
-          <div className="word">{vocab[currentIndex].word} <button onClick={() => speakText(vocab[currentIndex].word)}>🔊</button></div>
+          <div className="word">
+            {vocab[currentIndex].word} <button onClick={() => speakText(vocab[currentIndex].word)}>🔊</button>
+          </div>
           <div className="translation">{vocab[currentIndex].translation}</div>
-          <div className="word">{vocab[currentIndex].example} <button onClick={() => speakText(vocab[currentIndex].example)}>🔊</button></div>
+          <div className="word">
+            {vocab[currentIndex].example} <button onClick={() => speakText(vocab[currentIndex].example)}>🔊</button>
+          </div>
           <div className="translation">{vocab[currentIndex].example_translation}</div>
           <div className="navigation">
             <button onClick={prevSlide} disabled={currentIndex === 0}>

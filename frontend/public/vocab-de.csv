@@ -1,0 +1,628 @@
+ja,yes," Ja, das ist richtig. ","Yes, that is correct."
+nein,no," Nein, ich möchte keinen Kaffee. ","No, I don’t want coffee."
+und,and, Ich habe einen Apfel und eine Banane. ,I have an apple and a banana.
+aber,but," Ich mag Tee, aber keinen Kaffee. ","I like tea, but not coffee."
+oder,or, Möchtest du Tee oder Kaffee? ,Do you want tea or coffee?
+bitte,please," Eine Tasse Wasser, bitte. ","A cup of water, please."
+danke,thank you, Danke für das Essen. ,Thank you for the food.
+entschuldigung,excuse me," Entschuldigung, wo ist die Toilette? ","Excuse me, where is the restroom?"
+ich,I, Ich komme aus Deutschland. ,I come from Germany.
+du,you - informal, Du bist sehr nett. ,You are very nice.
+,,,
+,,,
+der Mann,man, Der Mann liest eine Zeitung. ,The man is reading a newspaper.
+die Frau,woman, Die Frau trinkt einen Kaffee. ,The woman is drinking coffee.
+das Kind,child, Das Kind spielt im Garten. ,The child is playing in the garden.
+der Junge,boy, Der Junge hat ein Fahrrad. ,The boy has a bicycle.
+das Mädchen,girl, Das Mädchen malt ein Bild. ,The girl is painting a picture.
+die Familie,family, Die Familie isst zusammen. ,The family eats together.
+der Freund,friend - male, Mein Freund wohnt in Berlin. ,My friend lives in Berlin.
+die Freundin,friend - female, Meine Freundin studiert Medizin. ,My 
+der Vater,father, Mein Vater arbeitet im Büro. ,My father works in the office.
+die Mutter,mother, Meine Mutter kocht das Abendessen. ,My mother is cooking dinner.
+,,,
+,,,
+null,zero, Es gibt null Fehler. ,There are zero mistakes.
+eins,one, Ich habe eins gefunden. ,I found one.
+zwei,two, Ich brauche zwei Stühle. ,I need two chairs.
+drei,three, Drei Katzen schlafen hier. ,Three cats are sleeping here.
+vier,four, Vier Freunde kommen heute. ,Four friends are coming today.
+fünf,five, Der Zug kommt in fünf Minuten. ,The train arrives in five minutes.
+sechs,six, Ich stehe um sechs Uhr auf. ,I get up at six o'clock.
+sieben,seven, Wir treffen uns um sieben Uhr. ,We meet at seven o'clock.
+acht,eight, Der Unterricht beginnt um acht Uhr. ,The class starts at eight o'clock.
+neun,nine, Neun Kinder spielen im Park. ,Nine children are playing in the park.
+zehn,ten, Ich habe zehn Äpfel. ,I have ten apples.
+elf,eleven, Elf Schüler sind in der Klasse. ,Eleven students are in the class.
+zwölf,twelve, Es ist zwölf Uhr. ,It is twelve o'clock.
+dreizehn,thirteen, Mein Bruder ist dreizehn Jahre alt. ,My brother is thirteen years old.
+vierzehn,fourteen, Sie ist vierzehn Jahre alt. ,She is fourteen years old.
+fünfzehn,fifteen, Wir haben fünfzehn Minuten Zeit. ,We have fifteen minutes.
+sechzehn,sixteen, Er ist sechzehn Jahre alt. ,He is sixteen years old.
+siebzehn,seventeen, Siebzehn Personen kommen zur Party. ,Seventeen people are coming to the party.
+achtzehn,eighteen, Achtzehn Jahre alt ist er jetzt. ,He is now eighteen years old.
+neunzehn,nineteen, Ich habe neunzehn Bücher. ,I have nineteen books.
+zwanzig,twenty, Wir haben zwanzig Minuten gewartet. ,We waited for twenty minutes.
+,,,
+,,,
+Montag,Monday, Am Montag habe ich einen Termin. ,I have an appointment on Monday.
+Dienstag,Tuesday, Dienstag ist mein freier Tag. ,Tuesday is my day off.
+Mittwoch,Wednesday, Wir gehen am Mittwoch ins Kino. ,We are going to the cinema on Wednesday.
+Donnerstag,Thursday, Donnerstag ist ein wichtiger Tag für mich. ,Thursday is an important day for me.
+Freitag,Friday, Freitag ist der letzte Arbeitstag der Woche. ,Friday is the last workday of the week.
+Samstag,Saturday, Am Samstag besuche ich meine Freunde. ,I am visiting my friends on Saturday.
+Sonntag,Sunday, Wir gehen am Sonntag spazieren. ,We are going for a walk on Sunday.
+Januar,January, Im Januar ist es sehr kalt. ,It is very cold in January.
+Februar,February,Der Februar hat nur 28 Tage.,February has only 28 days.
+März,March, Im März beginnt der Frühling. ,Spring begins in March.
+April,April," April macht, was er will. ",April does what it wants.
+Mai,May, Im Mai blühen die Blumen. ,The flowers bloom in May.
+Juni,June, Der Juni ist der Beginn des Sommers. ,June is the beginning of summer.
+Juli,July, Juli ist der heißeste Monat. ,July is the hottest month.
+August,August, Im August gehen viele Leute in den Urlaub. ,"In August, many people go on vacation."
+September,September, September ist der erste Herbstmonat. ,September is the first month of autumn.
+Oktober,October, Im Oktober feiern wir Halloween. ,We celebrate Halloween in October.
+November,November, Der November ist oft sehr regnerisch. ,November is often very rainy.
+Dezember,December, Dezember ist der letzte Monat des Jahres. ,December is the last month of the year.
+,,,
+,,,
+rot,red, Die Blume ist rot. ,The flower is red.
+blau,blue, Der Himmel ist blau. ,The sky is blue.
+gelb,yellow, Die Banane ist gelb. ,The banana is yellow.
+grün,green, Der Baum ist grün. ,The tree is green.
+schwarz,black, Die Katze ist schwarz. ,The cat is black.
+weiß,white, Das Papier ist weiß. ,The paper is white.
+grau,gray, Der Stein ist grau. ,The stone is gray.
+braun,brown, Der Hund ist braun. ,The dog is brown.
+orange,orange, Die Orange ist orange. ,The orange is orange.
+rosa,pink, Das Kleid ist rosa. ,The dress is pink.
+,,,
+,,,
+sein,to be, Ich bin glücklich. ,I am happy.
+haben,to have, Wir haben ein Auto. ,We have a car.
+gehen,to go, Ich gehe zur Schule. ,I am going to school.
+kommen,to come, Kommst du morgen? ,Are you coming tomorrow?
+sehen,to see, Ich sehe einen Vogel. ,I see a bird.
+hören,to hear, Ich höre Musik. ,I am listening to music.
+machen,to do/make, Was machst du? ,What are you doing?
+sprechen,to speak, Sprichst du Deutsch? ,Do you speak German?
+schreiben,to write, Ich schreibe einen Brief. ,I am writing a letter.
+lesen,to read, Sie liest ein Buch. ,She is reading a book.
+essen,to eat, Ich esse gern Pizza. ,I like to eat pizza.
+trinken,to drink, Ich trinke Wasser. ,I drink water.
+schlafen,to sleep, Ich schlafe acht Stunden jede Nacht. ,I sleep eight hours every night.
+kaufen,to buy, Ich kaufe ein neues Handy. ,I am buying a new phone.
+wohnen,to live, Ich wohne in Berlin. ,I live in Berlin.
+lieben,to love, Ich liebe meine Familie. ,I love my family.
+lernen,to learn, Ich lerne Deutsch. ,I am learning German.
+arbeiten,to work, Ich arbeite in einem Büro. ,I work in an office.
+spielen,to play, Die Kinder spielen im Park. ,The children are playing in the park.
+fragen,to ask, Ich frage den Lehrer. ,I am asking the teacher.
+,,,
+,,,
+das Wasser,water, Ich trinke jeden Tag Wasser. ,I drink water every day.
+der Kaffee,coffee, Der Kaffee ist heiß. ,The coffee is hot.
+der Tee,tea, Ich mag Tee mit Zucker. ,I like tea with sugar.
+die Milch,milk, Die Milch ist im Kühlschrank. ,The milk is in the fridge.
+der Saft,juice, Möchtest du Orangensaft? ,Do you want orange juice?
+das Bier,beer, Das Bier ist kalt. ,The beer is cold.
+das Brot,bread, Ich esse Brot zum Frühstück. ,I eat bread for breakfast.
+der Käse,cheese, Der Käse ist lecker. ,The cheese is delicious.
+das Fleisch,meat, Ich kaufe Fleisch für das Abendessen. ,I am buying meat for dinner.
+der Fisch,fish, Der Fisch ist frisch. ,The fish is fresh.
+,,,
+das Obst,fruit, Ich esse Obst zum Frühstück. ,I eat fruit for breakfast.
+das Gemüse,vegetable, Wir essen viel Gemüse. ,We eat a lot of vegetables.
+der Apfel,apple, Der Apfel ist rot. ,The apple is red.
+die Banane,banana, Die Banane ist gelb. ,The banana is yellow.
+die Orange,orange, Ich trinke frisch gepressten Orangensaft. ,I drink freshly squeezed orange juice.
+die Tomate,tomato, Die Tomate ist reif. ,The tomato is ripe.
+die Kartoffel,potato, Ich koche die Kartoffeln. ,I am boiling the potatoes.
+der Reis,rice, Wir essen Reis zum Abendessen. ,We eat rice for dinner.
+die Suppe,soup, Die Suppe ist heiß. ,The soup is hot.
+der Kuchen,cake, Der Kuchen ist süß. ,The cake is sweet.
+,,,
+,,,
+die Eltern,parents, Meine Eltern sind zu Hause. ,My parents are at home.
+die Geschwister,siblings, Ich habe zwei Geschwister. ,I have two siblings.
+der Bruder,brother, Mein Bruder ist älter als ich. ,My brother is older than me.
+die Schwester,sister, Meine Schwester ist sehr nett. ,My sister is very nice.
+der Sohn,son, Mein Sohn spielt im Park. ,My son is playing in the park.
+die Tochter,daughter, Meine Tochter geht zur Schule. ,My daughter is going to school.
+der Großvater,grandfather, Mein Großvater liest die Zeitung. ,My grandfather is reading the newspaper.
+die Großmutter,grandmother, Meine Großmutter kocht gern. ,My grandmother likes to cook.
+der Onkel,uncle, Mein Onkel reist nach Spanien. ,My uncle is traveling to Spain.
+die Tante,aunt, Meine Tante besucht uns am Wochenende. ,My aunt is visiting us on the weekend.
+,,,
+,,,
+das Haus,house, Das Haus ist groß. ,The house is big.
+die Wohnung,apartment, Die Wohnung ist schön. ,The apartment is beautiful.
+das Zimmer,room, Mein Zimmer ist im ersten Stock. ,My room is on the first floor.
+das Bett,bed, Ich schlafe im Bett. ,I sleep in the bed.
+der Tisch,table, Der Tisch ist aus Holz. ,The table is made of wood.
+der Stuhl,chair, Der Stuhl ist bequem. ,The chair is comfortable.
+die Tür,door, Die Tür ist offen. ,The door is open.
+das Fenster,window, Das Fenster ist geschlossen. ,The window is closed.
+die Lampe,lamp, Die Lampe ist an. ,The lamp is on.
+der Schlüssel,key, Ich habe den Schlüssel verloren. ,I lost the key.
+,,,
+,,,
+das Auto,car, Mein Auto ist rot. ,My car is red.
+der Bus,bus, Der Bus kommt in fünf Minuten. ,The bus will come in five minutes.
+der Zug,train, Der Zug fährt nach Berlin. ,The train is going to Berlin.
+das Fahrrad,bicycle, Ich fahre mit dem Fahrrad zur Arbeit. ,I ride my bicycle to work.
+das Flugzeug,airplane, Das Flugzeug fliegt nach Paris. ,The airplane is flying to Paris.
+das Taxi,taxi, Wir fahren mit dem Taxi zum Hotel. ,We are taking a taxi to the hotel.
+der Bahnhof,train station, Der Bahnhof ist in der Nähe. ,The train station is nearby.
+der Flughafen,airport, Der Flughafen ist weit weg. ,The airport is far away.
+die Straße,street, Die Straße ist lang. ,The street is long.
+,,,
+,,,
+der Regen,rain, Der Regen ist stark. ,The rain is heavy.
+der Schnee,snow, Der Schnee ist weiß. ,The snow is white.
+die Sonne,sun, Die Sonne scheint heute. ,The sun is shining today.
+der Wind,wind, Der Wind weht stark. ,The wind is blowing strongly.
+die Wolke,cloud, Die Wolke ist grau. ,The cloud is gray.
+das Wetter,weather, Das Wetter ist schön. ,The weather is nice.
+warm,warm, Es ist warm heute. ,It is warm today.
+kalt,cold, Es ist kalt im Winter. ,It is cold in the winter.
+sonnig,sunny, Es ist sonnig am Morgen. ,It is sunny in the morning.
+regnerisch,rainy, Es ist regnerisch heute. ,It is rainy today.
+,,,
+,,,
+die Uhr,clock, Die Uhr zeigt zehn Uhr. ,The clock shows ten o'clock.
+die Stunde,hour, Eine Stunde dauert sechzig Minuten. ,An hour lasts sixty minutes.
+die Minute,minute, Eine Minute ist sehr kurz. ,A minute is very short.
+die Sekunde,second, Es dauert nur eine Sekunde. ,It takes only one second.
+heute,today, Heute ist ein schöner Tag. ,Today is a beautiful day.
+gestern,yesterday, Gestern war ich im Kino. ,Yesterday I was at the cinema.
+morgen,tomorrow, Morgen fahre ich nach Berlin. ,Tomorrow I am going to Berlin.
+jetzt,now, Jetzt ist es Zeit zu gehen. ,Now it is time to go.
+später,later, Später gehen wir spazieren. ,Later we will go for a walk.
+früh,early, Ich stehe früh auf. ,I get up early.
+,,,
+,,,
+groß,big, Das Haus ist groß. ,The house is big.
+klein,small, Die Katze ist klein. ,The cat is small.
+alt,old, Mein Auto ist alt. ,My car is old.
+jung,young, Die Frau ist jung. ,The woman is young.
+neu,new, Das Buch ist neu. ,The book is new.
+schön,beautiful, Die Blumen sind schön. ,The flowers are beautiful.
+hässlich,ugly, Der Stuhl ist hässlich. ,The chair is ugly.
+gut,good, Der Film war gut. ,The movie was good.
+schlecht,bad, Das Essen schmeckt schlecht. ,The food tastes bad.
+einfach,simple, Die Aufgabe ist einfach. ,The task is simple.
+,,,
+,,,
+der Kopf,head, Mein Kopf tut weh. ,My head hurts.
+das Gesicht,face, Ihr Gesicht ist schön. ,Her face is beautiful.
+die Augen,eyes, Er hat blaue Augen. ,He has blue eyes.
+die Nase,nose, Ich rieche mit meiner Nase. ,I smell with my nose.
+der Mund,mouth, Sie spricht mit ihrem Mund. ,She speaks with her mouth.
+das Ohr,ear, Ich höre mit meinem Ohr. ,I hear with my ear.
+die Hand,hand, Ich gebe dir meine Hand. ,I give you my hand.
+der Arm,arm, Mein Arm ist verletzt. ,My arm is injured.
+das Bein,leg, Mein Bein ist lang. ,My leg is long.
+der Fuß,foot, Mein Fuß tut weh. ,My foot hurts.
+,,,
+,,,
+das Hemd,shirt, Er trägt ein blaues Hemd. ,He is wearing a blue shirt.
+die Hose,pants, Ich kaufe neue Hosen. ,I am buying new pants.
+der Rock,skirt, Sie trägt einen roten Rock. ,She is wearing a red skirt.
+das Kleid,dress, Sie trägt ein schönes Kleid. ,She is wearing a beautiful dress.
+die Jacke,jacket, Ich brauche eine warme Jacke. ,I need a warm jacket.
+der Mantel,coat, Der Mantel ist aus Wolle. ,The coat is made of wool.
+die Schuhe,shoes, Ich habe neue Schuhe gekauft. ,I bought new shoes.
+die Socken,socks, Ich trage blaue Socken. ,I am wearing blue socks.
+der Hut,hat, Der Hut ist teuer. ,The hat is expensive.
+der Schal,scarf, Ich trage einen warmen Schal im Winter. ,I wear a warm scarf in the winter.
+,,,
+,,,
+die Schule,school, Ich gehe jeden Tag in die Schule. ,I go to school every day.
+der Lehrer,teacher, Der Lehrer erklärt die Aufgabe. ,The teacher explains the task.
+der Schüler,student, Der Schüler schreibt die Antwort auf. ,The student writes the answer down.
+die Universität,university, Ich studiere an der Universität. ,I study at the university.
+das Buch,book, Ich lese das Buch jeden Abend. ,I read the book every evening.
+der Stift,pen, Der Stift ist blau. ,The pen is blue.
+das Papier,paper, Ich brauche mehr Papier zum Schreiben. ,I need more paper to write.
+der Computer,computer, Der Computer ist sehr schnell. ,The computer is very fast.
+der Arbeitsplatz,workplace, Mein Arbeitsplatz ist im Büro. ,My workplace is in the office.
+das Büro,office, Ich arbeite im Büro. ,I work in the office.
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+der Kollege,colleague, Der Kollege hilft mir bei der Arbeit. ,The colleague helps me with the work.
+der Chef,boss, Der Chef ist sehr nett. ,The boss is very nice.
+die Aufgabe,task, Ich habe eine wichtige Aufgabe zu erledigen. ,I have an important task to complete.
+die Pause,break,Wir haben um 10 Uhr Pause.,We have a break at 10 o'clock.
+das Heft,notebook, Ich schreibe meine Notizen in das Heft. ,I write my notes in the notebook.
+der Tisch,desk, Der Tisch ist aus Holz. ,The desk is made of wood.
+der Marker,marker, Ich benutze den Marker zum Zeichnen. ,I use the marker for drawing.
+die Tafel,board, Der Lehrer schreibt auf die Tafel. ,The teacher writes on the board.
+der Rucksack,backpack, Der Rucksack ist schwer. ,The backpack is heavy.
+der Drucker,printer, Der Drucker druckt das Dokument. ,The printer prints the document.
+,,,
+,,,
+die Küche,kitchen, Ich koche in der Küche. ,I cook in the kitchen.
+das Wohnzimmer,living room, Wir sitzen im Wohnzimmer und schauen Fernsehen. ,We sit in the living room and watch TV.
+das Badezimmer,bathroom, Das Badezimmer ist neben meinem Zimmer. ,The bathroom is next to my room.
+der Kühlschrank,fridge, Der Kühlschrank ist voll mit Essen. ,The fridge is full of food.
+der Herd,stove, Ich koche das Abendessen auf dem Herd. ,I cook dinner on the stove.
+die Spüle,sink, Ich wasche das Geschirr in der Spüle. ,I wash the dishes in the sink.
+der Ofen,oven, Der Ofen ist sehr heiß. ,The oven is very hot.
+die Waschmaschine,washing machine, Die Waschmaschine wäscht die Kleidung. ,The washing machine washes the clothes.
+das Sofa,sofa, Wir sitzen auf dem Sofa und entspannen uns. ,We sit on the sofa and relax.
+der Teppich,carpet, Der Teppich ist blau. ,The carpet is blue.
+,,,
+,,,
+laufen,to walk, Ich laufe jeden Morgen im Park. ,I walk in the park every morning.
+rennen,to run," Er rennt schnell, weil er spät ist. ",He runs fast because he's late.
+sitzen,to sit, Wir sitzen auf der Bank und sprechen. ,We sit on the bench and talk.
+stehen,to stand, Sie stehen in der Schlange. ,They are standing in line.
+öffnen,to open, Kannst du das Fenster öffnen? ,Can you open the window?
+schließen,to close, Bitte schließe die Tür. ,Please close the door.
+bringen,to bring, Er bringt die Bücher in die Bibliothek. ,He brings the books to the library.
+nehmen,to take, Nimm bitte diesen Stift. ,"Take this pen, please."
+geben,to give, Ich gebe dir das Buch. ,I give you the book.
+zeigen,to show, Kannst du mir den Weg zeigen? ,Can you show me the way?
+,,,
+,,,
+der Arzt,doctor, Ich muss zum Arzt gehen. ,I need to go to the doctor.
+die Apotheke,pharmacy, Ich kaufe Medizin in der Apotheke. ,I buy medicine at the pharmacy.
+das Krankenhaus,hospital, Er ist im Krankenhaus. ,He is in the hospital.
+die Gesundheit,health, Gesundheit ist sehr wichtig. ,Health is very important.
+krank,sick, Ich fühle mich krank. ,I feel sick.
+gesund,healthy, Du bist sehr gesund. ,You are very healthy.
+der Schmerz,pain, Ich habe Schmerzen im Rücken. ,I have pain in my back.
+der Kopfweh,headache, Sie hat Kopfweh. ,She has a headache.
+die Medizin,medicine, Ich nehme Medizin gegen die Erkältung. ,I take medicine for the cold.
+der Sport,sport, Er spielt jeden Tag Sport. ,He plays sports every day.
+,,,
+,,,
+der Weg,way, Welcher Weg führt zum Bahnhof? ,Which way leads to the station?
+links,left, Biegen Sie links ab. ,Turn left.
+rechts,right, Gehen Sie rechts an der Kreuzung. ,Go right at the intersection.
+geradeaus,straight ahead, Gehen Sie geradeaus. ,Go straight ahead.
+die Karte,map, Ich habe die Karte verloren. ,I lost the map.
+die Stadt,city, Ich wohne in der Stadt. ,I live in the city.
+das Dorf,village, Er kommt aus einem kleinen Dorf. ,He comes from a small village.
+der Platz,square, Wir treffen uns auf dem Platz. ,We meet at the square.
+das Hotel,hotel, Das Hotel ist teuer. ,The hotel is expensive.
+das Restaurant,restaurant, Das Restaurant hat gutes Essen. ,The restaurant has good food.
+,,,
+,,,
+der Laden,shop, Ich gehe in den Laden. ,I am going to the shop.
+der Supermarkt,supermarket, Wir kaufen Obst im Supermarkt. ,We buy fruit at the supermarket.
+der Markt,market, Auf dem Markt gibt es frisches Gemüse. ,There is fresh vegetables at the market.
+das Geld,money, Ich brauche mehr Geld. ,I need more money.
+die Münze,coin, Ich habe eine Münze gefunden. ,I found a coin.
+der Schein,banknote, Er hat einen Schein in der Tasche. ,He has a banknote in his pocket.
+der Preis,price, Der Preis ist zu hoch. ,The price is too high.
+teuer,expensive, Das Auto ist sehr teuer. ,The car is very expensive.
+billig,cheap, Die T,
+der Verkäufer,salesperson, Der Verkäufer hilft mir. ,The salesperson helps me.
+,,,
+,,,
+das Kino,cinema, Wir gehen ins Kino. ,We are going to the cinema.
+der Film,movie, Der Film ist spannend. ,The movie is exciting.
+das Theater,theater, Ich habe Karten für das Theater. ,I have tickets for the theater.
+das Konzert,concert, Das Konzert war fantastisch. ,The concert was fantastic.
+die Musik,music, Ich höre gerne Musik. ,I like listening to music.
+das Buch,book, Ich lese ein Buch. ,I am reading a book.
+die Zeitung,newspaper, Ich lese die Zeitung jeden Morgen. ,I read the newspaper every morning.
+der Sport,sport, Sport macht Spaß. ,Sport is fun.
+das Spiel,game, Wir spielen ein Spiel. ,We are playing a game.
+das Hobby,hobby, Mein Hobby ist Schwimmen. ,My hobby is swimming.
+,,,
+,,,
+hier,here, Ich bin hier. ,I am here.
+dort,there, Das Buch liegt dort. ,The book is there.
+jetzt,now, Wir essen jetzt. ,We are eating now.
+bald,soon, Ich komme bald. ,I am coming soon.
+immer,always, Sie ist immer pünktlich. ,She is always on time.
+oft,often, Er besucht uns oft. ,He visits us often.
+manchmal,sometimes, Ich gehe manchmal spazieren. ,I sometimes go for a walk.
+nie,never, Sie lügt nie. ,She never lies.
+über,over, Der Ball ist über dem Tisch. ,The ball is over the table.
+unter,under, Die Katze ist unter dem Sofa. ,The cat is under the sofa.
+,,,
+,,,
+der Baum,tree, Der Baum ist sehr alt. ,The tree is very old.
+die Blume,flower, Ich pflücke eine Blume. ,I pick a flower.
+der Berg,mountain, Der Berg ist hoch. ,The mountain is tall.
+der Fluss,river, Der Fluss fließt schnell. ,The river flows fast.
+der See,lake, Wir schwimmen im See. ,We are swimming in the lake.
+das Meer,sea, Das Meer ist ruhig heute. ,The sea is calm today.
+der Hund,dog, Der Hund bellt laut. ,The dog barks loudly.
+die Katze,cat, Die Katze schläft auf dem Stuhl. ,The cat is sleeping on the chair.
+der Vogel,bird, Ein Vogel singt im Baum. ,A bird is singing in the tree.
+der Fisch,fish, Der Fisch schwimmt im Wasser. ,The fish swims in the water.
+,,,
+,,,
+glücklich,happy, Ich bin sehr glücklich. ,I am very happy.
+traurig,sad, Sie ist heute traurig. ,She is sad today.
+müde,tired, Ich bin nach der Arbeit müde. ,I am tired after work.
+hungrig,hungry, Wir sind hungrig und wollen essen. ,We are hungry and want to eat.
+durstig,thirsty, Bist du durstig? ,Are you thirsty?
+wütend,angry," Er ist wütend, weil er warten muss. ",He is angry because he has to wait.
+gelangweilt,bored, Die Kinder sind gelangweilt. ,The children are bored.
+aufgeregt,excited, Ich bin aufgeregt wegen des Konzerts. ,I am excited about the concert.
+ruhig,calm, Bleib ruhig und konzentriert. ,Stay calm and focused.
+nervös,nervous,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+rot,red, Die Blume ist rot. ,The flower is red.
+blau,blue, Der Himmel ist blau. ,The sky is blue.
+grün,green, Das Gras ist grün. ,The grass is green.
+gelb,yellow, Die Sonne scheint gelb. ,The sun shines yellow.
+schwarz,black, Meine Schuhe sind schwarz. ,My shoes are black.
+weiß,white, Das Papier ist weiß. ,The paper is white.
+grau,gray, Der Himmel ist heute grau. ,The sky is gray today.
+braun,brown, Der Tisch ist braun. ,The table is brown.
+orange,orange, Die Orange ist orange. ,The orange is orange.
+rosa,pink, Ihr Kleid ist rosa. ,Her dress is pink.
+,,,
+,,,
+der Kreis,circle, Der Ball hat die Form eines Kreises. ,The ball is shaped like a circle.
+das Quadrat,square, Das Fenster ist ein Quadrat. ,The window is a square.
+das Dreieck,triangle, Das Dach hat die Form eines Dreiecks. ,The roof is shaped like a triangle.
+die Linie,line, Ziehe eine gerade Linie. ,Draw a straight line.
+der Punkt,dot, Setze einen Punkt am Ende des Satzes. ,Put a dot at the end of the sentence.
+die Ecke,corner, Der Tisch hat vier Ecken. ,The table has four corners.
+rund,round, Der Tisch ist rund. ,The table is round.
+eckig,angular, Diese Box ist eckig. ,This box is angular.
+groß,big, Das Haus ist groß. ,The house is big.
+klein,small, Der Hund ist klein. ,The dog is small.
+,,,
+,,,
+der Computer,computer, Der Computer ist eingeschaltet. ,The computer is on.
+das Handy,mobile phone, Mein Handy ist neu. ,My mobile phone is new.
+der Laptop,laptop, Ich arbeite am Laptop. ,I am working on the laptop.
+der Bildschirm,screen, Der Bildschirm ist kaputt. ,The screen is broken.
+die Tastatur,keyboard, Die Tastatur ist drahtlos. ,The keyboard is wireless.
+die Maus,mouse, Ich benutze eine Maus mit dem Laptop. ,I use a mouse with the laptop.
+das Internet,internet, Das Internet ist heute langsam. ,The internet is slow today.
+die Kamera,camera, Die Kamera macht schöne Bilder. ,The camera takes beautiful pictures.
+das Ladegerät,charger, Ich habe mein Ladegerät vergessen. ,I forgot my charger.
+das Passwort,password, Das Passwort ist sicher. ,The password is secure.
+,,,
+,,,
+gehen,to go, Ich gehe jeden Tag zur Arbeit. ,I go to work every day.
+kommen,to come, Kommst du heute Abend? ,Are you coming tonight?
+essen,to eat, Wir essen Spaghetti zum Abendessen. ,We are eating spaghetti for dinner.
+trinken,to drink, Er trinkt gerne Kaffee. ,He likes to drink coffee.
+schlafen,to sleep, Sie schläft acht Stunden jede Nacht. ,She sleeps eight hours every night.
+arbeiten,to work, Ich arbeite in einem Büro. ,I work in an office.
+spielen,to play, Die Kinder spielen draußen. ,The children are playing outside.
+lernen,to learn, Wir lernen Deutsch in der Schule. ,We are learning German at school.
+lesen,to read, Er liest ein interessantes Buch. ,He is reading an interesting book.
+schreiben,to write, Sie schreibt einen Brief. ,She is writing a letter.
+,,,
+,,,
+Was?,What?, Was machst du? ,What are you doing?
+Wer?,Who?, Wer kommt mit uns? ,Who is coming with us?
+Wo?,Where?, Wo ist mein Schlüssel? ,Where is my key?
+Warum?,Why?, Warum bist du spät? ,Why are you late?
+Wann?,When?, Wann beginnt der Film? ,When does the movie start?
+Wie?,How?, Wie geht es dir? ,How are you?
+Wie viel?,How much?, Wie viel kostet das? ,How much does it cost?
+Wohin?,Where to?, Wohin gehst du? ,Where are you going?
+Wessen?,Whose?, Wessen Buch ist das? ,Whose book is this?
+Welcher?,Which?, Welcher Film ist dein Favorit? ,Which movie is your favorite?
+,,,
+,,,
+Montag,Monday, Am Montag beginnt die Woche. ,Monday is the start of the week.
+Dienstag,Tuesday, Am Dienstag habe ich einen Termin. ,I have an appointment on Tuesday.
+Mittwoch,Wednesday, Mittwoch ist Bergfest! ,Wednesday is hump day!
+Donnerstag,Thursday, Am Donnerstag gehe ich ins Fitnessstudio. ,I go to the gym on Thursday.
+Freitag,Friday, Freitag ist der beste Tag der Woche. ,Friday is the best day of the week.
+Samstag,Saturday, Samstag ist mein freier Tag. ,Saturday is my day off.
+Sonntag,Sunday, Am Sonntag schlafen wir aus. ,"On Sunday, we sleep in."
+der Wochentag,weekday, Wochentage sind von Montag bis Freitag. ,Weekdays are from Monday to Friday.
+das Wochenende,weekend, Das Wochenende ist Zeit für Entspannung. ,The weekend is time for relaxation.
+der Feiertag,holiday, Am Feiertag haben wir frei. ,"On the holiday, we have the day off."
+,,,
+,,,
+Januar,January, Der Januar ist der erste Monat im Jahr. ,January is the first month of the year.
+Februar,February,Der Februar hat manchmal 29 Tage.,February sometimes has 29 days.
+März,March, Im März beginnt der Frühling. ,Spring begins in March.
+April,April, Im April regnet es oft. ,It often rains in April.
+Mai,May, Der Mai ist mein Lieblingsmonat. ,May is my favorite month.
+Juni,June, Im Juni fahren wir in den Urlaub. ,"In June, we go on vacation."
+Juli,July, Der Juli ist sehr warm. ,July is very warm.
+August,August, Der August ist ein Sommermonat. ,August is a summer month.
+September,September, Im September beginnt der Herbst. ,Fall begins in September.
+Oktober,October, Im Oktober feiern wir Halloween. ,We celebrate Halloween in October.
+November,November, Der November ist oft neblig. ,November is often foggy.
+Dezember,December, Im Dezember feiern wir Weihnachten. ,We celebrate Christmas in December.
+,,,
+,,,
+einundzwanzig,21, Ich bin einundzwanzig Jahre alt. ,I am 21 years old.
+zweiundzwanzig,22, Das Buch kostet zweiundzwanzig Euro. ,The book costs 22 euros.
+dreißig,30, Das Meeting beginnt um dreißig Minuten. ,The meeting starts in 30 minutes.
+vierzig,40, Es sind vierzig Kilometer bis zur Stadt. ,It’s 40 kilometers to the city.
+fünfzig,50, Ich habe fünfzig Seiten gelesen. ,I read 50 pages.
+sechzig,60, Das Auto kostet sechzig Tausend Euro. ,"The car costs 60,000 euros."
+siebzig,70, Der Film dauert siebzig Minuten. ,The movie lasts 70 minutes.
+achtzig,80, Es gibt achtzig Teilnehmer im Kurs. ,There are 80 participants in the course.
+neunzig,90, Die Temperatur liegt bei neunzig Grad. ,The temperature is 90 degrees.
+hundert,100, Ein perfektes Ergebnis ist hundert Prozent. ,A perfect score is 100 percent.
+,,,
+,,,
+die Stadt,city, Ich wohne in einer kleinen Stadt. ,I live in a small city.
+das Dorf,village, Das Dorf ist ruhig und schön. ,The village is quiet and beautiful.
+die Schule,school, Die Kinder gehen jeden Tag in die Schule. ,The children go to school every day.
+das Büro,office, Mein Büro ist im dritten Stock. ,My office is on the third floor.
+der Park,park, Wir treffen uns im Park. ,We’ll meet in the park.
+der Supermarkt,supermarket, Ich kaufe Brot im Supermarkt. ,I buy bread at the supermarket.
+der Bahnhof,train station, Der Zug kommt am Bahnhof an. ,The train arrives at the station.
+die Kirche,church, Die alte Kirche ist sehr schön. ,The old church is very beautiful.
+,,,
+,,,
+das Tanzen,dancing, Tanzen macht mir Spaß. ,Dancing is fun for me.
+das Singen,singing, Ich liebe Singen unter der Dusche. ,I love singing in the shower.
+das Malen,painting, Sie verbringt ihre Freizeit mit Malen. ,She spends her free time painting.
+das Zeichnen,drawing, Das Zeichnen von Tieren ist mein Hobby. ,Drawing animals is my hobby.
+das Schwimmen,swimming, Wir gehen oft Schwimmen im Sommer. ,We often go swimming in the summer.
+das Laufen,running, Laufen ist gut für die Gesundheit. ,Running is good for your health.
+das Kochen,cooking," Er mag es, neue Rezepte zu kochen. ",He likes cooking new recipes.
+das Reisen,traveling, Reisen erweitert den Horizont. ,Traveling broadens your horizons.
+das Fotografieren,photography, Fotografieren ist ihre Leidenschaft. ,Photography is her passion.
+das Schreiben,writing, Ich verbringe Stunden mit Schreiben. ,I spend hours writing.
+,,,
+,,,
+der Busfahrer,bus driver, Der Busfahrer war sehr freundlich. ,The bus driver was very friendly.
+das Ticket,ticket, Hast du ein Ticket gekauft? ,Did you buy a ticket?
+die Haltestelle,stop, Die Haltestelle ist gleich um die Ecke. ,The stop is just around the corner.
+die Straße,street, Die Straße ist sehr befahren. ,The street is very busy.
+die Kreuzung,intersection, An der Kreuzung biegen wir rechts ab. ,"At the intersection, we turn right."
+der Fußgänger,pedestrian, Der Fußgänger überquert die Straße. ,The pedestrian is crossing the street.
+die Ampel,traffic light," Warte, bis die Ampel grün wird. ",Wait until the traffic light turns green.
+das Fahrrad,bicycle, Ich fahre gern mit dem Fahrrad. ,I like riding a bicycle.
+der Führerschein,driver’s license, Ich muss meinen Führerschein erneuern. ,I need to renew my driver’s license.
+der Verkehr,traffic, Der Verkehr ist heute besonders schlimm. ,The traffic is especially bad today.
+,,,
+,,,
+freundlich,friendly, Der Kellner war sehr freundlich. ,The waiter was very friendly.
+unfreundlich,unfriendly, Der Verkäufer war ziemlich unfreundlich. ,The salesperson was quite unfriendly.
+schnell,fast, Dieses Auto ist wirklich schnell. ,This car is really fast.
+langsam,slow, Die Schnecke ist sehr langsam. ,The snail is very slow.
+leicht,easy, Diese Aufgabe ist leicht zu lösen. ,This task is easy to solve.
+schwer,difficult, Das Problem ist ziemlich schwer. ,The problem is quite difficult.
+interessant,interesting, Der Film war sehr interessant. ,The movie was very interesting.
+langweilig,boring, Das Buch war leider ziemlich langweilig. ,The book was unfortunately quite boring.
+sauber,clean, Das Hotelzimmer war sehr sauber. ,The hotel room was very clean.
+schmutzig,dirty, Deine Schuhe sind total schmutzig. ,Your shoes are totally dirty.
+,,,
+,,,
+der Kunde,customer, Der Kunde war mit dem Service zufrieden. ,The customer was satisfied with the service.
+das Angebot,offer, Dieses Angebot gilt nur bis morgen. ,This offer is only valid until tomorrow.
+der Rabatt,discount, Gibt es einen Rabatt auf diese Produkte? ,Is there a discount on these products?
+die Rechnung,bill, Können Sie mir die Rechnung bringen? ,Can you bring me the bill?
+die Quittung,receipt, Bewahren Sie die Quittung bitte auf. ,Please keep the receipt.
+die Tüte,bag, Brauchen Sie eine Tüte? ,Do you need a bag?
+das Regal,shelf, Die Ware steht im obersten Regal. ,The goods are on the top shelf.
+der Verkäufer,salesperson, Der Verkäufer war sehr hilfsbereit. ,The salesperson was very helpful.
+die Abteilung,department, Die Elektronik ist in der oberen Abteilung. ,Electronics are in the upper department.
+der Einkauf,purchase, Mein Einkauf war heute günstig. ,My purchase was inexpensive today.
+,,,
+,,,
+die Krankheit,illness, Die Krankheit verbreitete sich schnell. ,The illness spread quickly.
+die Untersuchung,examination, Die Untersuchung dauerte etwa eine Stunde. ,The examination took about an hour.
+die Behandlung,treatment, Die Behandlung war erfolgreich. ,The treatment was successful.
+das Rezept,prescription, Der Arzt hat mir ein Rezept ausgestellt. ,The doctor issued me a prescription.
+die Tablette,tablet, Nimm eine Tablette nach dem Essen. ,Take a tablet after eating.
+die Salbe,ointment, Diese Salbe hilft gegen Schmerzen. ,This ointment helps with pain.
+der Verband,bandage, Der Verband muss gewechselt werden. ,The bandage needs to be changed.
+die Operation,operation, Die Operation verlief ohne Komplikationen. ,The operation went without complications.
+der Patient,patient, Der Patient wird bald entlassen. ,The patient will be discharged soon.
+die Notaufnahme,emergency room, Gehen Sie sofort in die Notaufnahme. ,Go to the emergency room immediately.
+,,,
+,,,
+die Maus,mouse, Die Maus lief in die Ecke. ,The mouse ran into the corner.
+das Pferd,horse, Pferde sind sehr intelligente Tiere. ,Horses are very intelligent animals.
+die Kuh,cow, Auf der Weide grasen viele Kühe. ,Many cows are grazing in the meadow.
+das Schwein,pig, Das Schwein liegt im Schlamm. ,The pig is lying in the mud.
+das Schaf,sheep, Schafe haben weiche Wolle. ,Sheep have soft wool.
+die Ente,duck, Die Ente schwimmt im Teich. ,The duck is swimming in the pond.
+der Hase,hare, Der Hase versteckt sich im Gras. ,The hare is hiding in the grass.
+die Ziege,goat, Die Ziege klettert auf den Felsen. ,The goat is climbing the rock.
+der Wolf,wolf, Wölfe leben oft in Rudeln. ,Wolves often live in packs.
+der Bär,bear, Der Bär suchte nach Honig. ,The bear was looking for honey.
+,,,
+,,,
+der Geburtstag,birthday, Wann ist dein Geburtstag? ,When is your birthday?
+Weihnachten,Christmas, Weihnachten ist meine Lieblingszeit im Jahr. ,Christmas is my favorite time of the year.
+Ostern,Easter, An Ostern suchen wir bunte Eier. ,"At Easter, we search for colorful eggs."
+das Fest,festival, Das Fest war ein großer Erfolg. ,The festival was a great success.
+der Karneval,carnival, Karneval wird in vielen Städten gefeiert. ,Carnival is celebrated in many cities.
+das Silvester,New Year’s Eve, An Silvester machen wir ein Feuerwerk. ,"On New Year’s Eve, we set off fireworks."
+das Geschenk,gift, Ich habe ein tolles Geschenk bekommen. ,I received a great gift.
+die Kerze,candle, Die Kerzen brennen auf dem Tisch. ,The candles are burning on the table.
+die Party,party, Die Party war sehr lustig. ,The party was very fun.
+der Feiertag,holiday, Morgen ist ein Feiertag. ,Tomorrow is a holiday.
+,,,
+,,,
+enttäuscht,disappointed," Sie war enttäuscht, dass es regnete. ",She was disappointed that it rained.
+stolz,proud, Er ist stolz auf seine Leistung. ,He is proud of his achievement.
+verwirrt,confused, Ich war verwirrt von der Erklärung. ,I was confused by the explanation.
+begeistert,enthusiastic, Die Kinder waren begeistert über das Geschenk. ,The children were enthusiastic about the gift.
+erleichtert,relieved," Ich bin so erleichtert, dass alles gut lief. ",I’m so relieved that everything went well.
+ängstlich,anxious, Vor der Prüfung war sie sehr ängstlich. ,She was very anxious before the exam.
+zufrieden,satisfied, Ich bin mit meiner Arbeit zufrieden. ,I am satisfied with my work.
+verliebt,in love, Er ist bis über beide Ohren verliebt. ,He is head over heels in love.
+eifersüchtig,jealous, Sie ist eifersüchtig auf ihre Schwester. ,She is jealous of her sister.
+gelangweilt,bored," Ich bin gelangweilt, lass uns etwas unternehmen. ","I’m bored, let’s do something."
+,,,
+,,,
+die Sache,thing, Das ist meine Sache. ,That’s my thing.
+das Ding,thing, Dieses Ding ist kaputt. ,This thing is broken.
+der Fall,case, Im schlimmsten Fall rufen wir Hilfe. ,"In the worst case, we’ll call for help."
+die Idee,idea, Das ist eine großartige Idee! ,That’s a great idea!
+der Grund,reason, Was ist der Grund für deine Entscheidung? ,What is the reason for your decision?
+die Möglichkeit,possibility, Gibt es eine andere Möglichkeit? ,Is there another possibility?
+das Beispiel,example, Kannst du mir ein Beispiel geben? ,Can you give me an example?
+die Frage,question, Ich habe eine Frage an dich. ,I have a question for you.
+die Antwort,answer, Weißt du die Antwort? ,Do you know the answer?
+der Unterschied,difference, Was ist der Unterschied zwischen diesen beiden? ,What’s the difference between these two?
+,,,
+,,,
+Guten Morgen,Good morning, Guten Morgen! Hast du gut geschlafen? ,Good morning! Did you sleep well?
+Guten Tag,Good day," Guten Tag, wie kann ich Ihnen helfen? ","Good day, how can I help you?"
+Guten Abend,Good evening," Guten Abend, willkommen zum Konzert! ","Good evening, welcome to the concert!"
+Gute Nacht,Good night, Gute Nacht und träum schön. ,Good night and sweet dreams.
+Wie geht’s?,How are you?, Wie geht’s? Alles gut? ,How are you? All good?
+Danke,Thank you, Danke für deine Hilfe. ,Thank you for your help.
+Bitte,Please/You're welcome," Bitte, nimm Platz. ","Please, take a seat."
+Entschuldigung,Excuse me," Entschuldigung, wo ist die Toilette? ","Excuse me, where is the restroom?"
+Ich verstehe nicht,I don’t understand," Entschuldigung, ich verstehe nicht. ","Sorry, I don’t understand."
+Bis bald!,See you soon!, Bis bald! Wir sehen uns nächste Woche. ,See you soon! We’ll meet next week.
+,,,
+,,,
+der Freund,friend, Peter ist mein bester Freund. ,Peter is my best friend.
+die Freundin,girlfriend, Meine Freundin liebt Blumen. ,My girlfriend loves flowers.
+die Arbeit,work, Nach der Arbeit gehe ich ins Fitnessstudio. ,"After work, I go to the gym."
+der Urlaub,vacation, Wir planen einen Urlaub in Italien. ,We’re planning a vacation in Italy.
+der Plan,plan, Hast du einen Plan für heute Abend? ,Do you have a plan for tonight?
+die Zeit,time," Ich habe keine Zeit, später zu sprechen. ",I don’t have time to talk later.
+die Reise,trip, Die Reise nach Paris war fantastisch. ,The trip to Paris was fantastic.
+die Sprache,language, Deutsch ist eine interessante Sprache. ,German is an interesting language.
+das Ziel,goal," Mein Ziel ist es, fließend Deutsch zu sprechen. ",My goal is to speak German fluently.
+das Glück,luck, Viel Glück bei der Prüfung! ,Good luck with the exam!
+,,,
+Wie geht es dir heute?, How are you today?, "Mir geht es gut, danke!", I’m doing great, thank you!
+Bitte stelle dich vor., Please introduce yourself., "Mein Name ist Anna, und ich bin Softwareentwicklerin aus Berlin.", My name is Anna, and I’m a software developer from Berlin.
+Wo wohnst du?, Where do you live?, Ich wohne in München., I live in Munich.
+Wann bist du geboren?, When do you born?, "Ich bin am 15. April 1995 geboren.", I was born on April 15th, 1995.
+Wo bist du geboren?, Where do you born?, Ich bin in Hamburg geboren., I was born in Hamburg.
+Studierst du oder arbeitest du?, Are you studying or working?, Ich studiere momentan Biologie., I’m currently studying biology.
+Was ist dein Studienfach?, What is your major?, "Mein Studienfach ist Informatik.", My major is computer science.
+Was ist dein Hobby?, What is your hobby?, "Ich liebe Malen und Wandern.", I love painting and hiking.
+Was ist dein Lieblingsbuch?, What is your favorite book?, "Mein Lieblingsbuch ist Stolz und Vorurteil von Jane Austen.", My favorite book is Pride and Prejudice by Jane Austen.
+Was ist deine Lieblingsmusik?, What is your favorite music?, "Ich höre gerne klassische Musik.", I enjoy listening to classical music.
+Hast du Geschwister?, Do you have brothers or sisters?, "Ja, ich habe eine jüngere Schwester.", Yes, I have one younger sister.
+Was machst du in deiner Freizeit?, What do you do in your spare time?, "Ich lese gerne Bücher und spiele Videospiele.", I like to read books and play video games.
+Was hast du dieses Wochenende vor?, What’s your plan on this weekend?, "Ich plane, meine Familie zu besuchen und wandern zu gehen.", I’m planning to visit my family and go hiking.
+Was isst du zum Mittagessen?, What do you eat at lunch?, "Normalerweise esse ich einen Salat und etwas Pasta.", I usually eat a salad and some pasta.
+Wie ist das Wetter heute?, How's the weather today?, "Es ist sonnig und warm.", It's sunny and warm.
+Wie alt bist du?, How old are you?, "Ich bin 28 Jahre alt.", I’m 28 years old.
+Wann bist du aufgestanden?, When did you get up?, "Ich bin um 7 Uhr morgens aufgestanden.", I woke up at 7 a.m.
+Wie spät ist es?, What time is it?, "Es ist 15 Uhr.", It’s 3 p.m.
+Wie viel kostet es?, How much is it?, "Es kostet 20 Euro.", It costs 20 euros.
