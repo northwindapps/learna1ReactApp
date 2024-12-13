@@ -1,22 +1,27 @@
 import React, { useState } from "react";
+import "./Donut.css"; // Import CSS file for styling
 
 function Donut() {
   const [image, setImage] = useState(null);
+  const [imagePreview, setImagePreview] = useState(null); // State for image preview
+  const [isLoading, setIsLoading] = useState(false);
+  const [result, setResult] = useState(""); // State to hold inference result
 
-  // Handle file selection
   const handleFileChange = (e) => {
     const file = e.target.files[0];
     if (file) {
       setImage(file);
+      setImagePreview(URL.createObjectURL(file)); // Generate temporary URL for image preview
     }
   };
 
-  // Send image to server
   const handleSubmit = async () => {
     if (!image) {
       alert("Please select an image");
       return;
     }
+
+    setIsLoading(true);
 
     const formData = new FormData();
     formData.append("image", image);
@@ -30,25 +35,53 @@ function Donut() {
       if (response.ok) {
         const data = await response.json();
         if (data.success) {
-          console.log("Inference Result:", data.result);
-          alert("Inference completed successfully! Check console for result.");
+          setResult(data.result); // Display result in textarea
         } else {
-          alert("Error: " + data.error);
+          setResult("Error: " + data.error);
         }
       } else {
-        alert("Error during inference.");
+        setResult("Error during inference.");
       }
     } catch (error) {
       console.error("Error:", error);
-      alert("Error during inference.");
+      setResult("Error during inference.");
+    } finally {
+      setIsLoading(false);
     }
   };
 
   return (
-    <div>
-      <h1>Upload Image</h1>
-      <input type="file" accept="image/*" onChange={handleFileChange} />
-      <button onClick={handleSubmit}>Submit</button>
+    <div className="donut-container">
+      <h1>Donut Model Inference</h1>
+      <div className="form-container">
+        <input
+          type="file"
+          accept="image/*"
+          onChange={handleFileChange}
+          className="file-input"
+        />
+        {imagePreview && (
+          <img
+            src={imagePreview}
+            alt="Selected"
+            className="image-preview"
+          />
+        )}
+        <button
+          onClick={handleSubmit}
+          className="submit-button"
+          disabled={isLoading}
+        >
+          {isLoading ? "Processing..." : "Submit"}
+        </button>
+        {isLoading && <div className="spinner"></div>}
+      </div>
+      <textarea
+        className="result-textarea"
+        value={result}
+        readOnly
+        placeholder="Inference result will appear here..."
+      />
     </div>
   );
 }
