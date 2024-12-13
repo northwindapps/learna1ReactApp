@@ -27,7 +27,7 @@ function Donut() {
     formData.append("image", image);
 
     try {
-      const response = await fetch("http://localhost:3001/donut", {
+      const response = await fetch("https://learna1.com/donut", {
         method: "POST",
         body: formData,
       });
