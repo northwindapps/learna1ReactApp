@@ -1,0 +1,7 @@
+transformers==4.25.1
+pytorch-lightning==1.6.4
+timm==0.5.4
+donut-python
+protobuf==3.20.0
+sentencepiece
+pillow
