@@ -25,6 +25,7 @@ const App = () => {
             <li><Link to="/chat">Chat</Link></li>
             <li><button onClick={() => handlePopupClick('lesson')} className="lesson-button">Lesson</button></li>
             <li><button onClick={() => handlePopupClick('slideshow')} className="lesson-button">Slideshow</button></li>
+            <li><Link to="/donut">Donut</Link></li>
           </ul>
         </nav>
       </aside>

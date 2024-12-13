@@ -5,6 +5,7 @@ import App from './App';
 import Chat from './Chat';
 import Lesson from './Lesson'; // Import the Lesson component
 import Slideshow from './Slideshow';
+import Donut from './Donut';
 import reportWebVitals from './reportWebVitals';
 import { BrowserRouter, Routes, Route } from 'react-router-dom'; // Import routing components
 
@@ -19,6 +20,7 @@ root.render(
         <Route path="/slideshow/de" element={<Slideshow />} />
         <Route path="/lesson/fr" element={<Lesson />} />
         <Route path="/slideshow/fr" element={<Slideshow />} />
+        <Route path="/donut" element={<Donut/>} />
       </Routes>
     </BrowserRouter>
   </React.StrictMode>
