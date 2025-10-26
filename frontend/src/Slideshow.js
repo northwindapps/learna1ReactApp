@@ -23,9 +23,17 @@ const Slideshow = () => {
       const loadVoices = () => {
       const vs = window.speechSynthesis.getVoices();
       setVoices(vs);
-      const match = vs.find(v =>
+      var match = vs.find(v =>
         v.lang.toLowerCase().includes(selectedLanguage.toLowerCase())
       );
+
+      const normalized = selectedLanguage.toLowerCase();
+      if (!match) {
+        // Fallback to primary subtag matching, e.g. "fr" from "fr-CA"
+        const primary = normalized.split('-')[0];
+        match = vs.find(v => v.lang.toLowerCase().startsWith(primary));
+      }
+
       setCurrentVoice(match || vs[0] || null);
     };
 
