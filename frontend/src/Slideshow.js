@@ -2,37 +2,45 @@ import React, { useState, useEffect } from 'react';
 import './Slideshow.css';
 
 const Slideshow = () => {
-  const [vocab, setVocab] = useState([]);
-  const [currentIndex, setCurrentIndex] = useState(0);
+    const [vocab, setVocab] = useState([]);
+    const [currentIndex, setCurrentIndex] = useState(0);
 
-  const [selectedLanguage, setSelectedLanguage] = useState('de-DE'); // Default language (German)
-  const [voices, setVoices] = useState([]);
-  const [currentVoice, setCurrentVoice] = useState(null);
+    const [selectedLanguage, setSelectedLanguage] = useState('de-DE'); // Default language (German)
+    const [voices, setVoices] = useState([]);
+    const [currentVoice, setCurrentVoice] = useState(null);
 
-  // Shuffle function to randomize the order of vocabulary
-  const shuffleArray = (array) => {
-    let shuffledArray = [...array]; // Create a copy of the array to avoid mutating the original
-    for (let i = shuffledArray.length - 1; i > 0; i--) {
-      const j = Math.floor(Math.random() * (i + 1));
-      [shuffledArray[i], shuffledArray[j]] = [shuffledArray[j], shuffledArray[i]]; // Swap elements
-    }
-    return shuffledArray;
-  };
-
-  useEffect(() => {
-    // Function to load voices and update available voices list
-    const loadVoices = () => {
-      const availableVoices = window.speechSynthesis.getVoices();
-      setVoices(availableVoices);
-
-      const voice = availableVoices.find(voice => voice.lang === selectedLanguage);
-      setCurrentVoice(voice);
+    // Shuffle function to randomize the order of vocabulary
+    const shuffleArray = (array) => {
+      let shuffledArray = [...array]; // Create a copy of the array to avoid mutating the original
+      for (let i = shuffledArray.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [shuffledArray[i], shuffledArray[j]] = [shuffledArray[j], shuffledArray[i]]; // Swap elements
+      }
+      return shuffledArray;
     };
 
+    useEffect(() => {
+      const loadVoices = () => {
+      const vs = window.speechSynthesis.getVoices();
+      setVoices(vs);
+      const match = vs.find(v =>
+        v.lang.toLowerCase().includes(selectedLanguage.toLowerCase())
+      );
+      setCurrentVoice(match || vs[0] || null);
+    };
+
+    // Chrome fires this once voices are ready
+    window.speechSynthesis.addEventListener('voiceschanged', loadVoices);
+
+    // Also try loading immediately in case voices are already available
     loadVoices();
 
+    return () => {
+      window.speechSynthesis.removeEventListener('voiceschanged', loadVoices);
+    };
+
     // This event fires when voices are loaded/changed in the browser
-    window.speechSynthesis.onvoiceschanged = loadVoices;
+    // window.speechSynthesis.onvoiceschanged = loadVoices;
   }, [selectedLanguage]);
 
   // Speak text function with dynamic language selection
@@ -92,7 +100,7 @@ const Slideshow = () => {
         // Shuffle the data to randomize the order
         const shuffledData = shuffleArray(parsedData);
         setVocab(shuffledData);
-        console.log(parsedData);
+        // console.log(parsedData);
       })
       .catch((err) => console.error('Error loading CSV:', err));
   }, [selectedLanguage]);
